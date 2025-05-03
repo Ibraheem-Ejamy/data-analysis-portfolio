@@ -22,4 +22,4 @@ This repository contains my data analysis projects, showcasing skills in:
 
 ## Contact
 
-[Your LinkedIn/Email/Contact Information]
+[www.linkedin.com/in/ibraheem-ejamy/ibraheemejamy@gmail.com/+971502495630]
