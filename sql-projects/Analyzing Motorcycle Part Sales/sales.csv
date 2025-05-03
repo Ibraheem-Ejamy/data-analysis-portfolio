@@ -1,0 +1,226 @@
+order_number,date,warehouse,client_type,product_line,quantity,unit_price,total,payment,payment_fee,month,net_revenue,month_order
+N4,2021-06-01 00:00:00+00:00,North,Wholesale,Suspension & traction,40,37.37,1494.8,Transfer,0.01,June,1494.79,1
+N95,2021-06-25 00:00:00+00:00,North,Wholesale,Frame & body,16,40.01,640.13,Transfer,0.01,June,640.12,1
+N64,2021-06-19 00:00:00+00:00,North,Wholesale,Frame & body,16,44.54,712.69,Transfer,0.01,June,712.68,1
+C33,2021-06-08 00:00:00+00:00,Central,Wholesale,Braking system,40,20.77,830.67,Transfer,0.01,June,830.66,1
+W16,2021-06-08 00:00:00+00:00,West,Wholesale,Braking system,36,20.48,737.28,Transfer,0.01,June,737.27,1
+C135,2021-06-27 00:00:00+00:00,Central,Wholesale,Braking system,36,17.34,624.42,Transfer,0.01,June,624.41,1
+N72,2021-06-20 00:00:00+00:00,North,Wholesale,Braking system,32,18.98,607.36,Transfer,0.01,June,607.35,1
+C37,2021-06-09 00:00:00+00:00,Central,Wholesale,Braking system,36,16.51,594.24,Transfer,0.01,June,594.23,1
+N3,2021-06-01 00:00:00+00:00,North,Wholesale,Frame & body,16,37.84,605.44,Transfer,0.01,June,605.43,1
+N48,2021-06-14 00:00:00+00:00,North,Wholesale,Braking system,20,24.45,489.0,Transfer,0.01,June,488.99,1
+C106,2021-06-23 00:00:00+00:00,Central,Wholesale,Braking system,32,14.74,471.84,Transfer,0.01,June,471.83,1
+C46,2021-06-11 00:00:00+00:00,Central,Wholesale,Braking system,28,14.46,404.93,Transfer,0.01,June,404.92,1
+N13,2021-06-05 00:00:00+00:00,North,Wholesale,Electrical system,28,29.12,815.22,Transfer,0.01,June,815.21,1
+C90,2021-06-18 00:00:00+00:00,Central,Wholesale,Braking system,24,11.25,269.92,Transfer,0.01,June,269.91,1
+C150,2021-06-29 00:00:00+00:00,Central,Wholesale,Braking system,16,13.77,220.32,Transfer,0.01,June,220.31,1
+C56,2021-06-13 00:00:00+00:00,Central,Wholesale,Braking system,8,18.31,146.48,Transfer,0.01,June,146.47,1
+N79,2021-06-21 00:00:00+00:00,North,Wholesale,Braking system,8,14.39,115.15,Transfer,0.01,June,115.14,1
+W17,2021-06-08 00:00:00+00:00,West,Wholesale,Braking system,28,16.98,475.49,Transfer,0.01,June,475.48,1
+C81,2021-06-16 00:00:00+00:00,Central,Wholesale,Braking system,4,16.89,67.57,Transfer,0.01,June,67.56,1
+C31,2021-06-08 00:00:00+00:00,Central,Wholesale,Frame & body,8,44.14,353.11,Transfer,0.01,June,353.1,1
+C124,2021-06-26 00:00:00+00:00,Central,Wholesale,Miscellaneous,8,26.48,211.84,Transfer,0.01,June,211.83,1
+N92,2021-06-24 00:00:00+00:00,North,Wholesale,Electrical system,32,24.77,792.64,Transfer,0.01,June,792.63,1
+N74,2021-06-20 00:00:00+00:00,North,Wholesale,Electrical system,16,25.92,414.67,Transfer,0.01,June,414.66,1
+C145,2021-06-28 00:00:00+00:00,Central,Wholesale,Electrical system,12,31.13,373.6,Transfer,0.01,June,373.59,1
+C65,2021-06-14 00:00:00+00:00,Central,Wholesale,Electrical system,12,26.74,320.94,Transfer,0.01,June,320.93,1
+C85,2021-06-17 00:00:00+00:00,Central,Wholesale,Electrical system,8,27.14,217.09,Transfer,0.01,June,217.08,1
+C128,2021-06-26 00:00:00+00:00,Central,Wholesale,Electrical system,36,28.23,1016.22,Transfer,0.01,June,1016.21,1
+C102,2021-06-22 00:00:00+00:00,Central,Wholesale,Engine,4,63.58,254.34,Transfer,0.01,June,254.33,1
+C25,2021-06-07 00:00:00+00:00,Central,Wholesale,Frame & body,4,44.69,178.75,Transfer,0.01,June,178.74,1
+C68,2021-06-15 00:00:00+00:00,Central,Wholesale,Engine,28,63.54,1779.07,Transfer,0.01,June,1779.06,1
+C23,2021-06-06 00:00:00+00:00,Central,Wholesale,Engine,36,63.41,2282.82,Transfer,0.01,June,2282.81,1
+N51,2021-06-15 00:00:00+00:00,North,Wholesale,Suspension & traction,36,39.87,1435.26,Transfer,0.01,June,1435.25,1
+W63,2021-06-30 00:00:00+00:00,West,Wholesale,Miscellaneous,40,29.75,1190.13,Transfer,0.01,June,1190.12,1
+W20,2021-06-10 00:00:00+00:00,West,Wholesale,Miscellaneous,36,21.75,782.94,Transfer,0.01,June,782.93,1
+C34,2021-06-08 00:00:00+00:00,Central,Wholesale,Miscellaneous,40,18.87,754.73,Transfer,0.01,June,754.72,1
+C132,2021-06-26 00:00:00+00:00,Central,Wholesale,Miscellaneous,20,26.68,533.5,Transfer,0.01,June,533.49,1
+N38,2021-06-11 00:00:00+00:00,North,Wholesale,Miscellaneous,24,21.42,514.0,Transfer,0.01,June,513.99,1
+C149,2021-06-28 00:00:00+00:00,Central,Wholesale,Engine,36,62.02,2232.66,Transfer,0.01,June,2232.65,1
+C20,2021-06-05 00:00:00+00:00,Central,Wholesale,Braking system,4,13.65,54.6,Transfer,0.01,June,54.59,1
+N61,2021-06-18 00:00:00+00:00,North,Wholesale,Braking system,12,23.02,276.3,Transfer,0.01,June,276.29,1
+N113,2021-06-29 00:00:00+00:00,North,Wholesale,Frame & body,20,37.99,759.77,Transfer,0.01,June,759.76,1
+W34,2021-06-19 00:00:00+00:00,West,Wholesale,Suspension & traction,4,39.77,159.07,Transfer,0.01,June,159.06,1
+N71,2021-06-19 00:00:00+00:00,North,Wholesale,Suspension & traction,12,26.99,323.88,Transfer,0.01,June,323.87,1
+C41,2021-06-09 00:00:00+00:00,Central,Wholesale,Suspension & traction,12,28.65,343.8,Transfer,0.01,June,343.79,1
+N99,2021-06-25 00:00:00+00:00,North,Wholesale,Suspension & traction,12,33.88,406.6,Transfer,0.01,June,406.59,1
+W14,2021-06-08 00:00:00+00:00,West,Wholesale,Suspension & traction,12,34.26,411.14,Transfer,0.01,June,411.13,1
+N116,2021-06-30 00:00:00+00:00,North,Wholesale,Suspension & traction,12,40.63,487.56,Transfer,0.01,June,487.55,1
+W42,2021-06-23 00:00:00+00:00,West,Wholesale,Suspension & traction,16,32.9,526.35,Transfer,0.01,June,526.34,1
+C157,2021-06-30 00:00:00+00:00,Central,Wholesale,Suspension & traction,20,26.76,535.1,Transfer,0.01,June,535.09,1
+N15,2021-06-05 00:00:00+00:00,North,Wholesale,Suspension & traction,16,36.79,588.64,Transfer,0.01,June,588.63,1
+N114,2021-06-29 00:00:00+00:00,North,Wholesale,Suspension & traction,20,39.56,791.23,Transfer,0.01,June,791.22,1
+N18,2021-06-06 00:00:00+00:00,North,Wholesale,Suspension & traction,32,34.82,1114.13,Transfer,0.01,June,1114.12,1
+C147,2021-06-28 00:00:00+00:00,Central,Wholesale,Suspension & traction,40,28.57,1142.87,Transfer,0.01,June,1142.86,1
+C28,2021-06-07 00:00:00+00:00,Central,Wholesale,Suspension & traction,40,28.64,1145.47,Transfer,0.01,June,1145.46,1
+W37,2021-06-20 00:00:00+00:00,West,Wholesale,Suspension & traction,32,39.88,1276.0,Transfer,0.01,June,1275.99,1
+N54,2021-06-16 00:00:00+00:00,North,Wholesale,Suspension & traction,40,35.59,1423.73,Transfer,0.01,June,1423.72,1
+C88,2021-06-17 00:00:00+00:00,Central,Wholesale,Suspension & traction,4,39.45,157.81,Transfer,0.01,June,157.8,1
+C97,2021-06-20 00:00:00+00:00,Central,Wholesale,Frame & body,16,47.16,754.48,Transfer,0.01,June,754.47,1
+C136,2021-06-27 00:00:00+00:00,Central,Wholesale,Electrical system,40,24.43,977.13,Transfer,0.01,June,977.12,1
+W39,2021-06-21 00:00:00+00:00,West,Wholesale,Miscellaneous,4,24.83,99.32,Transfer,0.01,June,99.31,1
+C84,2021-06-17 00:00:00+00:00,Central,Wholesale,Frame & body,20,45.32,906.4,Transfer,0.01,June,906.39,1
+N33,2021-06-10 00:00:00+00:00,North,Wholesale,Frame & body,28,37.0,1035.91,Transfer,0.01,June,1035.9,1
+N60,2021-06-18 00:00:00+00:00,North,Wholesale,Frame & body,24,48.18,1156.24,Transfer,0.01,June,1156.23,1
+C72,2021-06-15 00:00:00+00:00,Central,Wholesale,Frame & body,24,48.95,1174.88,Transfer,0.01,June,1174.87,1
+W23,2021-06-12 00:00:00+00:00,West,Wholesale,Frame & body,28,42.85,1199.89,Transfer,0.01,June,1199.88,1
+W2,2021-06-01 00:00:00+00:00,West,Wholesale,Frame & body,40,39.5,1579.87,Transfer,0.01,June,1579.86,1
+C89,2021-06-18 00:00:00+00:00,Central,Wholesale,Frame & body,36,48.44,1743.78,Transfer,0.01,June,1743.77,1
+W15,2021-06-08 00:00:00+00:00,West,Wholesale,Miscellaneous,12,17.39,208.62,Transfer,0.01,June,208.61,1
+C87,2021-06-17 00:00:00+00:00,Central,Wholesale,Miscellaneous,8,24.28,194.2,Transfer,0.01,June,194.19,1
+C86,2021-06-17 00:00:00+00:00,Central,Wholesale,Miscellaneous,8,22.98,183.85,Transfer,0.01,June,183.84,1
+N136,2021-07-05 00:00:00+00:00,North,Wholesale,Suspension & traction,4,36.99,147.97,Transfer,0.01,July,147.96,2
+W78,2021-07-05 00:00:00+00:00,West,Wholesale,Suspension & traction,4,27.33,109.32,Transfer,0.01,July,109.31,2
+N122,2021-07-02 00:00:00+00:00,North,Wholesale,Engine,16,62.95,1007.15,Transfer,0.01,July,1007.14,2
+C301,2021-07-26 00:00:00+00:00,Central,Wholesale,Engine,32,57.1,1827.04,Transfer,0.01,July,1827.03,2
+W96,2021-07-15 00:00:00+00:00,West,Wholesale,Miscellaneous,8,29.9,239.16,Transfer,0.01,July,239.15,2
+W125,2021-07-30 00:00:00+00:00,West,Wholesale,Miscellaneous,16,25.82,413.04,Transfer,0.01,July,413.03,2
+C233,2021-07-12 00:00:00+00:00,Central,Wholesale,Miscellaneous,40,26.2,1048.0,Transfer,0.01,July,1047.99,2
+C174,2021-07-04 00:00:00+00:00,Central,Wholesale,Miscellaneous,28,28.57,799.87,Transfer,0.01,July,799.86,2
+C244,2021-07-15 00:00:00+00:00,Central,Wholesale,Miscellaneous,40,17.94,717.73,Transfer,0.01,July,717.72,2
+N153,2021-07-10 00:00:00+00:00,North,Wholesale,Miscellaneous,36,19.17,690.24,Transfer,0.01,July,690.23,2
+C309,2021-07-27 00:00:00+00:00,Central,Wholesale,Miscellaneous,24,17.77,426.4,Transfer,0.01,July,426.39,2
+C175,2021-07-04 00:00:00+00:00,Central,Wholesale,Frame & body,4,45.66,182.65,Transfer,0.01,July,182.64,2
+C249,2021-07-16 00:00:00+00:00,Central,Wholesale,Frame & body,4,48.05,192.21,Transfer,0.01,July,192.2,2
+N219,2021-07-31 00:00:00+00:00,North,Wholesale,Frame & body,12,48.1,577.26,Transfer,0.01,July,577.25,2
+C240,2021-07-14 00:00:00+00:00,Central,Wholesale,Miscellaneous,8,15.81,126.49,Transfer,0.01,July,126.48,2
+N120,2021-07-02 00:00:00+00:00,North,Wholesale,Frame & body,28,44.92,1257.76,Transfer,0.01,July,1257.75,2
+N124,2021-07-03 00:00:00+00:00,North,Wholesale,Frame & body,32,41.92,1341.44,Transfer,0.01,July,1341.43,2
+N154,2021-07-10 00:00:00+00:00,North,Wholesale,Frame & body,40,37.04,1481.6,Transfer,0.01,July,1481.59,2
+N195,2021-07-23 00:00:00+00:00,North,Wholesale,Frame & body,40,37.42,1496.6,Transfer,0.01,July,1496.59,2
+C272,2021-07-21 00:00:00+00:00,Central,Wholesale,Frame & body,40,38.66,1546.6,Transfer,0.01,July,1546.59,2
+N186,2021-07-20 00:00:00+00:00,North,Wholesale,Miscellaneous,36,29.78,1071.96,Transfer,0.01,July,1071.95,2
+C243,2021-07-15 00:00:00+00:00,Central,Wholesale,Frame & body,28,43.35,1213.71,Transfer,0.01,July,1213.7,2
+N132,2021-07-05 00:00:00+00:00,North,Wholesale,Electrical system,28,20.87,584.36,Transfer,0.01,July,584.35,2
+N187,2021-07-20 00:00:00+00:00,North,Wholesale,Electrical system,36,28.26,1017.48,Transfer,0.01,July,1017.47,2
+W91,2021-07-12 00:00:00+00:00,West,Wholesale,Suspension & traction,20,39.45,788.97,Transfer,0.01,July,788.96,2
+C189,2021-07-07 00:00:00+00:00,Central,Wholesale,Suspension & traction,24,33.41,801.8,Transfer,0.01,July,801.79,2
+C223,2021-07-10 00:00:00+00:00,Central,Wholesale,Suspension & traction,24,35.98,863.64,Transfer,0.01,July,863.63,2
+C230,2021-07-11 00:00:00+00:00,Central,Wholesale,Suspension & traction,28,31.15,872.25,Transfer,0.01,July,872.24,2
+C306,2021-07-27 00:00:00+00:00,Central,Wholesale,Suspension & traction,24,40.12,962.8,Transfer,0.01,July,962.79,2
+C327,2021-07-31 00:00:00+00:00,Central,Wholesale,Suspension & traction,36,29.5,1062.0,Transfer,0.01,July,1061.99,2
+N210,2021-07-28 00:00:00+00:00,North,Wholesale,Suspension & traction,28,40.43,1132.13,Transfer,0.01,July,1132.12,2
+C247,2021-07-16 00:00:00+00:00,Central,Wholesale,Braking system,40,24.88,995.33,Transfer,0.01,July,995.32,2
+W85,2021-07-09 00:00:00+00:00,West,Wholesale,Braking system,40,24.53,981.4,Transfer,0.01,July,981.39,2
+W67,2021-07-01 00:00:00+00:00,West,Wholesale,Braking system,32,24.78,793.07,Transfer,0.01,July,793.06,2
+N179,2021-07-18 00:00:00+00:00,North,Wholesale,Braking system,32,21.83,698.45,Transfer,0.01,July,698.44,2
+N183,2021-07-19 00:00:00+00:00,North,Wholesale,Braking system,28,23.06,645.59,Transfer,0.01,July,645.58,2
+N123,2021-07-03 00:00:00+00:00,North,Wholesale,Braking system,40,15.52,620.87,Transfer,0.01,July,620.86,2
+C322,2021-07-30 00:00:00+00:00,Central,Wholesale,Braking system,28,21.88,612.78,Transfer,0.01,July,612.77,2
+C170,2021-07-03 00:00:00+00:00,Central,Wholesale,Braking system,36,16.09,579.3,Transfer,0.01,July,579.29,2
+W89,2021-07-11 00:00:00+00:00,West,Wholesale,Braking system,28,20.56,575.77,Transfer,0.01,July,575.76,2
+C187,2021-07-06 00:00:00+00:00,Central,Wholesale,Braking system,36,15.47,556.92,Transfer,0.01,July,556.91,2
+N158,2021-07-11 00:00:00+00:00,North,Wholesale,Braking system,40,13.36,534.27,Transfer,0.01,July,534.26,2
+C335,2021-07-31 00:00:00+00:00,Central,Wholesale,Braking system,20,23.75,474.97,Transfer,0.01,July,474.96,2
+W99,2021-07-16 00:00:00+00:00,West,Wholesale,Braking system,12,21.75,260.96,Transfer,0.01,July,260.95,2
+C275,2021-07-21 00:00:00+00:00,Central,Wholesale,Braking system,12,17.47,209.68,Transfer,0.01,July,209.67,2
+W124,2021-07-29 00:00:00+00:00,West,Wholesale,Braking system,8,23.87,190.93,Transfer,0.01,July,190.92,2
+W95,2021-07-14 00:00:00+00:00,West,Wholesale,Braking system,8,23.83,190.64,Transfer,0.01,July,190.63,2
+C169,2021-07-03 00:00:00+00:00,Central,Wholesale,Braking system,8,22.22,177.8,Transfer,0.01,July,177.79,2
+C191,2021-07-07 00:00:00+00:00,Central,Wholesale,Braking system,16,10.75,171.95,Transfer,0.01,July,171.94,2
+N207,2021-07-28 00:00:00+00:00,North,Wholesale,Braking system,8,11.91,95.31,Transfer,0.01,July,95.3,2
+W94,2021-07-13 00:00:00+00:00,West,Wholesale,Braking system,4,17.06,68.23,Transfer,0.01,July,68.22,2
+W69,2021-07-02 00:00:00+00:00,West,Wholesale,Suspension & traction,36,38.47,1384.74,Transfer,0.01,July,1384.73,2
+C237,2021-07-13 00:00:00+00:00,Central,Wholesale,Suspension & traction,40,35.06,1402.53,Transfer,0.01,July,1402.52,2
+N143,2021-07-07 00:00:00+00:00,North,Wholesale,Suspension & traction,24,31.24,749.76,Transfer,0.01,July,749.75,2
+N182,2021-07-19 00:00:00+00:00,North,Wholesale,Suspension & traction,24,30.74,737.68,Transfer,0.01,July,737.67,2
+W66,2021-07-01 00:00:00+00:00,West,Wholesale,Suspension & traction,16,31.18,498.83,Transfer,0.01,July,498.82,2
+N118,2021-07-01 00:00:00+00:00,North,Wholesale,Suspension & traction,16,28.46,455.39,Transfer,0.01,July,455.38,2
+C315,2021-07-28 00:00:00+00:00,Central,Wholesale,Electrical system,36,26.12,940.14,Transfer,0.01,July,940.13,2
+C194,2021-07-07 00:00:00+00:00,Central,Wholesale,Electrical system,40,20.98,839.33,Transfer,0.01,July,839.32,2
+C251,2021-07-16 00:00:00+00:00,Central,Wholesale,Electrical system,28,29.48,825.53,Transfer,0.01,July,825.52,2
+W106,2021-07-18 00:00:00+00:00,West,Wholesale,Miscellaneous,20,25.23,504.63,Transfer,0.01,July,504.62,2
+W102,2021-07-16 00:00:00+00:00,West,Wholesale,Electrical system,16,28.09,449.47,Transfer,0.01,July,449.46,2
+C204,2021-07-08 00:00:00+00:00,Central,Wholesale,Electrical system,16,27.66,442.51,Transfer,0.01,July,442.5,2
+C265,2021-07-19 00:00:00+00:00,Central,Wholesale,Electrical system,16,24.01,384.19,Transfer,0.01,July,384.18,2
+C165,2021-07-01 00:00:00+00:00,Central,Wholesale,Electrical system,36,31.31,1127.22,Transfer,0.01,July,1127.21,2
+C224,2021-07-10 00:00:00+00:00,Central,Wholesale,Electrical system,12,30.23,362.8,Transfer,0.01,July,362.79,2
+N212,2021-07-29 00:00:00+00:00,North,Wholesale,Miscellaneous,24,26.77,642.48,Transfer,0.01,July,642.47,2
+W110,2021-07-21 00:00:00+00:00,West,Wholesale,Suspension & traction,4,39.38,157.51,Transfer,0.01,July,157.5,2
+C227,2021-07-11 00:00:00+00:00,Central,Wholesale,Electrical system,12,24.68,296.18,Transfer,0.01,July,296.17,2
+C171,2021-07-03 00:00:00+00:00,Central,Wholesale,Suspension & traction,8,34.35,274.81,Transfer,0.01,July,274.8,2
+C334,2021-07-31 00:00:00+00:00,Central,Wholesale,Electrical system,12,21.04,252.52,Transfer,0.01,July,252.51,2
+N184,2021-07-19 00:00:00+00:00,North,Wholesale,Electrical system,4,27.08,108.32,Transfer,0.01,July,108.31,2
+C264,2021-07-19 00:00:00+00:00,Central,Wholesale,Electrical system,4,26.82,107.3,Transfer,0.01,July,107.29,2
+C284,2021-07-23 00:00:00+00:00,Central,Wholesale,Suspension & traction,8,27.12,216.97,Transfer,0.01,July,216.96,2
+N137,2021-07-06 00:00:00+00:00,North,Wholesale,Suspension & traction,8,28.48,227.85,Transfer,0.01,July,227.84,2
+N198,2021-07-25 00:00:00+00:00,North,Wholesale,Suspension & traction,8,32.95,263.57,Transfer,0.01,July,263.56,2
+N245,2021-08-06 00:00:00+00:00,North,Wholesale,Suspension & traction,40,40.11,1604.33,Transfer,0.01,August,1604.32,3
+C434,2021-08-17 00:00:00+00:00,Central,Wholesale,Suspension & traction,32,39.76,1272.27,Transfer,0.01,August,1272.26,3
+C384,2021-08-08 00:00:00+00:00,Central,Wholesale,Suspension & traction,36,30.96,1114.74,Transfer,0.01,August,1114.73,3
+N295,2021-08-19 00:00:00+00:00,North,Wholesale,Suspension & traction,36,30.64,1103.04,Transfer,0.01,August,1103.03,3
+W134,2021-08-03 00:00:00+00:00,West,Wholesale,Suspension & traction,40,27.02,1080.8,Transfer,0.01,August,1080.79,3
+N335,2021-08-27 00:00:00+00:00,North,Wholesale,Suspension & traction,12,37.07,444.84,Transfer,0.01,August,444.83,3
+N321,2021-08-24 00:00:00+00:00,North,Wholesale,Suspension & traction,28,37.03,1036.93,Transfer,0.01,August,1036.92,3
+C464,2021-08-24 00:00:00+00:00,Central,Wholesale,Suspension & traction,36,27.05,973.74,Transfer,0.01,August,973.73,3
+C457,2021-08-22 00:00:00+00:00,Central,Wholesale,Suspension & traction,16,38.06,609.01,Transfer,0.01,August,609.0,3
+C436,2021-08-17 00:00:00+00:00,Central,Wholesale,Suspension & traction,16,31.47,503.49,Transfer,0.01,August,503.48,3
+N240,2021-08-05 00:00:00+00:00,North,Wholesale,Suspension & traction,16,29.72,475.49,Transfer,0.01,August,475.48,3
+N325,2021-08-25 00:00:00+00:00,North,Wholesale,Suspension & traction,8,32.39,259.12,Transfer,0.01,August,259.11,3
+C378,2021-08-07 00:00:00+00:00,Central,Wholesale,Suspension & traction,28,33.7,943.51,Transfer,0.01,August,943.5,3
+C431,2021-08-16 00:00:00+00:00,Central,Wholesale,Braking system,4,16.91,67.65,Transfer,0.01,August,67.64,3
+W177,2021-08-28 00:00:00+00:00,West,Wholesale,Miscellaneous,32,25.42,813.44,Transfer,0.01,August,813.43,3
+N290,2021-08-18 00:00:00+00:00,North,Wholesale,Electrical system,24,29.08,698.04,Transfer,0.01,August,698.03,3
+W129,2021-08-01 00:00:00+00:00,West,Wholesale,Electrical system,32,21.7,694.4,Transfer,0.01,August,694.39,3
+C356,2021-08-03 00:00:00+00:00,Central,Wholesale,Electrical system,24,23.51,564.24,Transfer,0.01,August,564.23,3
+N340,2021-08-28 00:00:00+00:00,North,Wholesale,Electrical system,20,27.41,548.13,Transfer,0.01,August,548.12,3
+N318,2021-08-24 00:00:00+00:00,North,Wholesale,Electrical system,20,21.29,425.77,Transfer,0.01,August,425.76,3
+W180,2021-08-28 00:00:00+00:00,West,Wholesale,Electrical system,12,32.8,393.64,Transfer,0.01,August,393.63,3
+N319,2021-08-24 00:00:00+00:00,North,Wholesale,Electrical system,20,18.45,368.97,Transfer,0.01,August,368.96,3
+N316,2021-08-23 00:00:00+00:00,North,Wholesale,Electrical system,16,22.73,363.63,Transfer,0.01,August,363.62,3
+C393,2021-08-10 00:00:00+00:00,Central,Wholesale,Electrical system,12,18.43,221.18,Transfer,0.01,August,221.17,3
+C468,2021-08-25 00:00:00+00:00,Central,Wholesale,Electrical system,8,25.95,207.56,Transfer,0.01,August,207.55,3
+W153,2021-08-14 00:00:00+00:00,West,Wholesale,Electrical system,8,19.23,153.83,Transfer,0.01,August,153.82,3
+W139,2021-08-07 00:00:00+00:00,West,Wholesale,Braking system,36,24.83,893.82,Transfer,0.01,August,893.81,3
+C339,2021-08-01 00:00:00+00:00,Central,Wholesale,Braking system,40,20.51,820.33,Transfer,0.01,August,820.32,3
+W163,2021-08-18 00:00:00+00:00,West,Wholesale,Braking system,40,20.16,806.6,Transfer,0.01,August,806.59,3
+N227,2021-08-02 00:00:00+00:00,North,Wholesale,Braking system,36,16.49,593.76,Transfer,0.01,August,593.75,3
+C428,2021-08-15 00:00:00+00:00,Central,Wholesale,Braking system,40,14.2,567.93,Transfer,0.01,August,567.92,3
+C376,2021-08-07 00:00:00+00:00,Central,Wholesale,Braking system,32,17.74,567.84,Transfer,0.01,August,567.83,3
+C405,2021-08-12 00:00:00+00:00,Central,Wholesale,Braking system,28,17.45,488.74,Transfer,0.01,August,488.73,3
+N275,2021-08-13 00:00:00+00:00,North,Wholesale,Braking system,40,11.61,464.4,Transfer,0.01,August,464.39,3
+W144,2021-08-10 00:00:00+00:00,West,Wholesale,Braking system,16,24.04,384.69,Transfer,0.01,August,384.68,3
+N333,2021-08-26 00:00:00+00:00,North,Wholesale,Braking system,20,16.89,337.8,Transfer,0.01,August,337.79,3
+W179,2021-08-28 00:00:00+00:00,West,Wholesale,Braking system,32,10.03,320.96,Transfer,0.01,August,320.95,3
+C398,2021-08-11 00:00:00+00:00,Central,Wholesale,Braking system,16,14.72,235.47,Transfer,0.01,August,235.46,3
+N320,2021-08-24 00:00:00+00:00,North,Wholesale,Braking system,12,15.21,182.56,Transfer,0.01,August,182.55,3
+C469,2021-08-25 00:00:00+00:00,Central,Wholesale,Braking system,12,13.19,158.3,Transfer,0.01,August,158.29,3
+C361,2021-08-04 00:00:00+00:00,Central,Wholesale,Braking system,8,16.65,133.23,Transfer,0.01,August,133.22,3
+N269,2021-08-12 00:00:00+00:00,North,Wholesale,Braking system,8,12.25,97.97,Transfer,0.01,August,97.96,3
+W156,2021-08-16 00:00:00+00:00,West,Wholesale,Braking system,4,23.66,94.65,Transfer,0.01,August,94.64,3
+N291,2021-08-18 00:00:00+00:00,North,Wholesale,Braking system,4,23.6,94.41,Transfer,0.01,August,94.4,3
+N236,2021-08-04 00:00:00+00:00,North,Wholesale,Electrical system,36,20.25,729.0,Transfer,0.01,August,728.99,3
+C344,2021-08-03 00:00:00+00:00,Central,Wholesale,Miscellaneous,40,26.38,1055.4,Transfer,0.01,August,1055.39,3
+N261,2021-08-09 00:00:00+00:00,North,Wholesale,Electrical system,28,28.16,788.34,Transfer,0.01,August,788.33,3
+C479,2021-08-28 00:00:00+00:00,Central,Wholesale,Electrical system,32,28.76,920.37,Transfer,0.01,August,920.36,3
+N326,2021-08-25 00:00:00+00:00,North,Wholesale,Miscellaneous,28,21.56,603.77,Transfer,0.01,August,603.76,3
+N249,2021-08-07 00:00:00+00:00,North,Wholesale,Miscellaneous,20,29.96,599.27,Transfer,0.01,August,599.26,3
+N255,2021-08-08 00:00:00+00:00,North,Wholesale,Miscellaneous,28,15.02,420.61,Transfer,0.01,August,420.6,3
+C347,2021-08-03 00:00:00+00:00,Central,Wholesale,Miscellaneous,12,21.42,257.04,Transfer,0.01,August,257.03,3
+C478,2021-08-28 00:00:00+00:00,Central,Wholesale,Miscellaneous,8,28.9,231.2,Transfer,0.01,August,231.19,3
+N283,2021-08-17 00:00:00+00:00,North,Wholesale,Miscellaneous,8,27.22,217.79,Transfer,0.01,August,217.78,3
+C348,2021-08-03 00:00:00+00:00,Central,Wholesale,Miscellaneous,12,16.35,196.16,Transfer,0.01,August,196.15,3
+N280,2021-08-15 00:00:00+00:00,North,Wholesale,Frame & body,40,46.15,1846.13,Transfer,0.01,August,1846.12,3
+N270,2021-08-12 00:00:00+00:00,North,Wholesale,Frame & body,36,49.58,1784.88,Transfer,0.01,August,1784.87,3
+C414,2021-08-13 00:00:00+00:00,Central,Wholesale,Frame & body,32,48.42,1549.49,Transfer,0.01,August,1549.48,3
+C447,2021-08-20 00:00:00+00:00,Central,Wholesale,Frame & body,32,48.07,1538.29,Transfer,0.01,August,1538.28,3
+N238,2021-08-04 00:00:00+00:00,North,Wholesale,Frame & body,40,35.97,1438.73,Transfer,0.01,August,1438.72,3
+N311,2021-08-21 00:00:00+00:00,North,Wholesale,Frame & body,40,35.92,1436.67,Transfer,0.01,August,1436.66,3
+C360,2021-08-04 00:00:00+00:00,Central,Wholesale,Frame & body,36,39.55,1423.92,Transfer,0.01,August,1423.91,3
+N264,2021-08-10 00:00:00+00:00,North,Wholesale,Frame & body,28,49.73,1392.53,Transfer,0.01,August,1392.52,3
+C407,2021-08-12 00:00:00+00:00,Central,Wholesale,Frame & body,24,39.2,940.88,Transfer,0.01,August,940.87,3
+W141,2021-08-07 00:00:00+00:00,West,Wholesale,Frame & body,20,41.48,829.7,Transfer,0.01,August,829.69,3
+C451,2021-08-22 00:00:00+00:00,Central,Wholesale,Frame & body,20,35.78,715.67,Transfer,0.01,August,715.66,3
+C445,2021-08-19 00:00:00+00:00,Central,Wholesale,Frame & body,16,41.58,665.31,Transfer,0.01,August,665.3,3
+C418,2021-08-13 00:00:00+00:00,Central,Wholesale,Frame & body,12,49.47,593.6,Transfer,0.01,August,593.59,3
+C462,2021-08-24 00:00:00+00:00,Central,Wholesale,Frame & body,4,39.85,159.41,Transfer,0.01,August,159.4,3
+C381,2021-08-08 00:00:00+00:00,Central,Wholesale,Engine,40,63.66,2546.33,Transfer,0.01,August,2546.32,3
+N230,2021-08-02 00:00:00+00:00,North,Wholesale,Engine,40,58.1,2324.2,Transfer,0.01,August,2324.19,3
+C392,2021-08-10 00:00:00+00:00,Central,Wholesale,Engine,36,60.73,2186.16,Transfer,0.01,August,2186.15,3
+C354,2021-08-03 00:00:00+00:00,Central,Wholesale,Engine,28,60.88,1704.78,Transfer,0.01,August,1704.77,3
+C350,2021-08-03 00:00:00+00:00,Central,Wholesale,Engine,28,59.33,1661.19,Transfer,0.01,August,1661.18,3
+C473,2021-08-27 00:00:00+00:00,Central,Wholesale,Engine,20,60.22,1204.3,Transfer,0.01,August,1204.29,3
+C394,2021-08-10 00:00:00+00:00,Central,Wholesale,Engine,4,56.5,226.01,Transfer,0.01,August,226.0,3
+C337,2021-08-01 00:00:00+00:00,Central,Wholesale,Electrical system,40,30.33,1213.13,Transfer,0.01,August,1213.12,3
+N233,2021-08-02 00:00:00+00:00,North,Wholesale,Electrical system,24,33.3,799.32,Transfer,0.01,August,799.31,3
+C390,2021-08-09 00:00:00+00:00,Central,Wholesale,Frame & body,28,38.27,1071.51,Transfer,0.01,August,1071.5,3
